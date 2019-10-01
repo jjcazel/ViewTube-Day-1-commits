@@ -1,5 +1,7 @@
 # README
 
+This is my pixel-perfect clone of YouTube!
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
